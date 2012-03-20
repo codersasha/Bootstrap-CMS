@@ -1,17 +1,21 @@
 # Bootstrap CMS
 Bootstrap CMS is a basic CMS based off Twitter Bootstrap and its templates.
 
-## Features
+## Status
+- Currently looking for developers to create a basic beta, likely to be written in PHP for easy setup & install
+
+## Future Features
 - Based on the wonderful Twitter bootstrap, beautiful & platform independent
 - Add & edit pages using HTML or TinyMCE
 - Comes with a whole bunch of beautiful templates
-
-## Future features
 - Add & edit templates
 - Add & edit users
 - Add & edit forms
 - Add & edit modal boxes
 - Add & edit modal forms
+
+## More future features
+- Easy AJAX designer
 
 ## Credits
 
